@@ -1,3 +1,4 @@
 # hello-world
-# This is my first  github repo.
-I am Donald and I am new to programming. I acome from a sysadmin background and I'm learning to code
+
+I am starting out in programming and would like to take the time to explain about myself. I am donald and I am a Sysadmin.
+This is the first git project I have done
